@@ -1,25 +1,34 @@
 # 1021XABC
-NamaLengkap
+Amna Yasya Mubarok
 
 
 ## materi sebelumnya
-+ Tuliskan materi-materi sebelumnya yang telah diberikan dalam kuliah ini.
++ Pegas
++ Matriks
++ Lorentz
++ Euler
++ Runge Kutta Orde 4
++ Monte-Carlo
 
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
++ Monte-Carlo
 
 
 ## materi paling membosankan
-+ Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
++ Euler
 
 
 ## materi yang sudah dipami
-+ Tuliskan materi-materi yang telah dipahami.
++ Matriks
++ Euler
++ Lorentz
 
 
 ## materi yang belum dipahami
-+ Tuliskan materi-materi yang masih belum dipahami dan bagian mana yang belum serta ingin dipahami.
++ Pegas
++ Monte-Carlo
++ Runge-Kutta orde 4
 
 
 ## contoh program
@@ -36,12 +45,14 @@ Hasilnya adalah
 
 
 ## cara perkuliahan
-+ Tuliskan pendapat Anda mengenai cara perkuliahan selama ini dan cantumkan usulan untuk perkuliahan setelah UTS.
++ Karena materinya dipelajari beberapa semester lalu, membuat saya membutuhkan waktu untuk memunculkan kembali pemahaman mengenai materi tersebut.
+  Masih bergantung terhadap contoh kodingan yang diberikan, belum sampai ke membuat kodingan sendiri. PR cukup membantu pemahaman.
+  Perbanyak contoh kodingan.
 
 
 ## topik sistem fisis
-+ Tuliskan sistem fisis yang menarik bagi Anda untuk dikaji lebih dalam dan jelaskan alasannya mengapa.
++ Sistem sisrkulasi alamiah. Karena memiliki karakteristik yang unik dan dapat dimanfaatkan secara luas.
 
 
 ## simulasi dan visualisasi
-+ Apakah Anda tertarik dengan simulasi dan visualisasi? Jelaskan topik yang ingin Anda simulasikan / visualisasikan serta cantumkan alasannya dan perkiraan pusataka Python yang perlu digunakan.
++ Tertarik. Sirkulasi alamiah. Menggunakan loop.
